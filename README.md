@@ -30,14 +30,14 @@ M.O.C.E. Laura Carolina Sánchez Leal Responsible for the Guidance and Education
 
 ## Contents :scroll:
 
-1.[Objectives]
-2.[Tools and methods]
-3.[User Stories and Requirements]
-4.[Roles and work processes]
-5.[Log]
-6.[Study data and research]
-7.[Competencies]
-8.[Teamwork]
+1.[Objectives](https://github.com/DanielaLujanTrejo/Methods-of-organization-/blob/main/Documentation/1.%20Objectives.md#general-objective "Objectives")
+2.[Tools and methods](https://github.com/DanielaLujanTrejo/Methods-of-organization-/blob/main/Documentation/2.%20Tools%20and%20Methods.md#tools-and-methods "Tools and methods")
+3.[User Stories and Requirements](https://github.com/DanielaLujanTrejo/Methods-of-organization-/blob/main/Documentation/3.%20User%20Stories%20and%20non-functional%20requirements.md#user-stories-and-requirements "User Stories and Requirements")
+4.[Roles and work processes](https://github.com/DanielaLujanTrejo/Methods-of-organization-/blob/main/Documentation/4.%20Roles%20and%20work%20processes.md#work-process "Roles and work processes")
+5.[Logbook](https://github.com/DanielaLujanTrejo/Methods-of-organization-/blob/main/Documentation/5.%20Logbook.md#logbook "Logbook")
+6.[Study data and research](https://github.com/DanielaLujanTrejo/Methods-of-organization-/blob/main/Documentation/6.%20Study%20data%20and%20research.md#study-data-and-research "Study data and research")
+7.[Competencies](https://github.com/DanielaLujanTrejo/Methods-of-organization-/blob/main/Documentation/7.%20Competencies.md#competencies "Competencies")
+8.[Teamwork](https://github.com/DanielaLujanTrejo/Methods-of-organization-/blob/main/Documentation/8.%20Teamwork.md#teamwork "Teamwork")
 
 * **Link:** - [@JiraScrum](https://metodos-de-organizacion.atlassian.net/jira/software/projects/PFIS/boards/2)
 
