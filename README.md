@@ -2,11 +2,13 @@
 # Methods of organization :notebook:
 
 ## Authors :pencil:
-* **Ibis Carrillo Araujo** - [@Ibis-C](https://github.com/Ibis-C "@Ibis-C")
-* **Daniela Lujan Trejo** - [@DanielaLujanTrejo](https://github.com/DanielaLujanTrejo "@DanielaLujanTrejo") 
-* **Angel David Ricalde Che** - [@Acuablast](https://github.com/Acuablast "@JAcuablast")
-* **Ruth Betzabe Castro Acosta** - [@Ruthbcastro](https://github.com/Ruthbcastro "@Ruthbcastro")
-* **Jose Emmanuel Bacab Moreno** - [@jose130802](https://github.com/jose130802 "jose130802")
+* **Bacab Moreno Jose Emmanuel** - [@jose130802](https://github.com/jose130802 "jose130802")
+* **Carrillo Araujo Ibis** - [@Ibis-C](https://github.com/Ibis-C "@Ibis-C")
+* **Castro Acosta Ruth Betzabe** - [@Ruthbcastro](https://github.com/Ruthbcastro "@Ruthbcastro")
+* **Lujan Trejo Daniela** - [@DanielaLujanTrejo](https://github.com/DanielaLujanTrejo "@DanielaLujanTrejo") 
+* **Ricalde Che Angel David** - [@Acuablast](https://github.com/Acuablast "@JAcuablast")
+
+
 ## Description :page_facing_up:
 
 **Methods and skills for personal organization:**
