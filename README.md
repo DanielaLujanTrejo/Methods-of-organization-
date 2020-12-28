@@ -1,1 +1,1 @@
-# Methods-of-organization-
+# Methods of organization 
