@@ -51,4 +51,4 @@ M.O.C.E. Laura Carolina Sánchez Leal Responsible for the Guidance and Education
 ## Progress :bookmark_tabs:
 [First Presentation](https://drive.google.com/file/d/1F0vofleelqB5JcEyuFYQqAPxitU4AYgu/view "First Presentation")
 
-
+![](/Users/usuario/Desktop/DxhwaTtU8AEN9Qm.jpg)Welcome to the Methods-of-organization- wiki!
