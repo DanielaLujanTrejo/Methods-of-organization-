@@ -49,5 +49,12 @@ M.O.C.E. Laura Carolina Sánchez Leal Responsible for the Guidance and Education
 * **Link:** - [@JiraScrum](https://metodos-de-organizacion.atlassian.net/jira/software/projects/PFIS/boards/2)
 
 ## Progress :bookmark_tabs:
-[First Presentation](https://drive.google.com/file/d/1F0vofleelqB5JcEyuFYQqAPxitU4AYgu/view "First Presentation")
+[First Presentation (Spanish)](https://drive.google.com/file/d/1F0vofleelqB5JcEyuFYQqAPxitU4AYgu/view "First Presentation")
+
+[Second Presentation(Spanish)](https://drive.google.com/file/d/1ep6Cnb9KUwBt8I_DcG6udEol8-JouwQL/view?usp=sharing "Second Presentation"]
+
+[Repository in Spanish](https://github.com/Ibis-C/Metodos-de-organizacion#métodos-de-organización-notebook "Repository in Spanish"]
+
+[Sprint 1]( "Sprint1")
+
 
