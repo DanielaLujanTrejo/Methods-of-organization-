@@ -12,7 +12,8 @@
 ## Description :page_facing_up:
 
 **Methods and skills for personal organization:**
-A tool that shows the importance of time organization, its different techniques and how you can implement them in your day-to-day life to obtain a better performance. Aimed at a higher education level in first year students of Software Engineering FMAT UADY for face to face and online modality.
+
+Interactive video in which the importance of organization, its different techniques and how you can implement them in your day to day getting a better performance. Aimed at a higher education level in first year students of Software Engineering FMAT UADY for classroom and online mode.
 
 **Users:** 
 - Elementary: First year students of the Software Engineering Degree at FMAT UADY with bad organizational habits.
