@@ -106,3 +106,4 @@ Process:
 
 8-JAN-2021. The scrum team meets and the sprint retrospective is done.
 
+[Contents](https://github.com/DanielaLujanTrejo/Methods-of-organization-/tree/Final-delivery#methods-of-organization-notebook)
