@@ -58,6 +58,6 @@ M.O.C.E. Laura Carolina Sánchez Leal Responsible for the Guidance and Education
 
 [Repository in Spanish](https://github.com/Ibis-C/Metodos-de-organizacion#métodos-de-organización-notebook "Repository in Spanish")
 
-[Sprint 1]( "Sprint1")
+[Sprint 1](https://github.com/DanielaLujanTrejo/Methods-of-organization-/blob/Second-delivery/Documentation/Sprint%201.md#increase-of-the-product "Sprint1")
 
 
