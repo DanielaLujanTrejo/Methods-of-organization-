@@ -4,8 +4,8 @@
 + [LINK VIDEO HU 2](https://drive.google.com/file/d/1vU4TYOTCY6Q5A6SKU5idIQu3pfN7rGWL/view?usp=sharing)
   + [DESIGN HU 2](https://drive.google.com/file/d/178UC0WA85I5jvDZTRFgd5T8LyRt5hEI5/view?usp=sharing)
 + [LINK VIDEO HU 3](https://drive.google.com/file/d/1jaUSAjR2C4KEqtvDj5kLnXEjLj5mQ04G/view?usp=sharing): 
-  + [DESIGN PARTE 1](https://drive.google.com/file/d/1FqPfBjExwI3cby7_5t7ozSS7Zp5J5BYN/view?usp=sharing)
-  + [DESIGN PARTE 2](https://drive.google.com/file/d/1ef0VjlQhmWNubg34euyniG8BrdT4dLUh/view?usp=sharing)
+  + [DESIGN PART 1](https://drive.google.com/file/d/1FqPfBjExwI3cby7_5t7ozSS7Zp5J5BYN/view?usp=sharing)
+  + [DESIGN PART 2](https://drive.google.com/file/d/1ef0VjlQhmWNubg34euyniG8BrdT4dLUh/view?usp=sharing)
 
 ## ***Sprint planning***
  
