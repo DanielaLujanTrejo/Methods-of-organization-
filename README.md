@@ -35,7 +35,7 @@ M.O.C.E. Laura Carolina Sánchez Leal Responsible for the Guidance and Education
 
 2.[Tools and methods](https://github.com/DanielaLujanTrejo/Methods-of-organization-/blob/Final-delivery/Documentation/2.%20Tools%20and%20Methods.md#tools-and-methods "Tools and methods")
 
-3.[User Stories and Requirements](https://github.com/DanielaLujanTrejo/Methods-of-organization-/blob/Final-delivery/Documentation/3.%20User%20Stories%20and%20non-functional%20requirements.md#user-stories-and-requirements "User Stories and Requirements")
+3.[User stories, use cases and requirements](https://github.com/DanielaLujanTrejo/Methods-of-organization-/blob/Final-delivery/Documentation/3.%20User%20Stories%20and%20non-functional%20requirements.md#user-stories-and-requirements "User Stories and Requirements")
 
 4.[Roles and work processes](https://github.com/DanielaLujanTrejo/Methods-of-organization-/blob/Final-delivery/Documentation/4.%20Roles%20and%20work%20processes.md#work-process "Roles and work processes")
 
