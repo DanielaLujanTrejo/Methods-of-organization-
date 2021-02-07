@@ -65,6 +65,7 @@ M.O.C.E. Laura Carolina Sánchez Leal Responsible for the Guidance and Education
 [Final Presentation Video 1](https://www.youtube.com/watch?v=YnCh3m8OVhI&feature=youtu.be)
 
 [Final Presentation Video 2](https://www.youtube.com/watch?v=bhgEax-9Ajw&feature=youtu.be)
+[Final Presentation Slides](https://view.genial.ly/601ccc512e22130d3c7d22d0/presentation-final-presentation)
 
 **Report**
 
