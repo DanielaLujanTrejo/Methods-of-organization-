@@ -62,3 +62,18 @@ M.O.C.E. Laura Carolina Sánchez Leal Responsible for the Guidance and Education
 
 [Sprint 3](https://github.com/DanielaLujanTrejo/Methods-of-organization-/blob/Final-delivery/Documentation/Sprint%203.md#increase-of-the-product "Sprint 3")
 
+[Final Presentation Video 1](https://www.youtube.com/watch?v=YnCh3m8OVhI&feature=youtu.be)
+
+[Final Presentation Video 2](https://www.youtube.com/watch?v=bhgEax-9Ajw&feature=youtu.be)
+
+**Report**
+
+[PDF](https://drive.google.com/file/d/163TTLMMWCVxch7Y9ThidSrmFA8S2MmMp/view?usp=sharing)
+
+[On-line document](https://docs.google.com/document/d/1dH0mGN-dgPjgjv7Lc3s9dGK8R47kA7iAj8U0XFTuD6c/edit)
+
+**Poster**
+
+[Poster](https://drive.google.com/file/d/1TtnJgsyq3ZyXOKdmUZiKbB8bBKoWZqfH/view?usp=sharing)
+
+
