@@ -77,3 +77,5 @@ Process:
 07-JAN-2021: Daily meeting with the development team and scrum master. On the same day the sprint review meeting is held with the scrum team and guests.
 
 8-JAN-2021. The scrum team meets and the sprint retrospective is done.
+
+[Contents](https://github.com/DanielaLujanTrejo/Methods-of-organization-/tree/Final-delivery#methods-of-organization-notebook)
