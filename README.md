@@ -43,8 +43,7 @@ M.O.C.E. Laura Carolina Sánchez Leal Responsible for the Guidance and Education
 
 6.[Study data and research](https://github.com/DanielaLujanTrejo/Methods-of-organization-/blob/Final-delivery/Documentation/6.%20Study%20data%20and%20research.md "Study data and research")
 
-7.[Competencies](https://github.com/DanielaLujanTrejo/Methods-of-organization-/blob/Final-delivery/Documentation/7.%20Competencies.md#competencies
- "Competencies")
+7.[Competencies](https://github.com/DanielaLujanTrejo/Methods-of-organization-/blob/Final-delivery/Documentation/7.%20Competencies.md#competencies "Competencies")
 
 8.[Teamwork](https://github.com/DanielaLujanTrejo/Methods-of-organization-/blob/Final-delivery/Documentation/8.%20Teamwork.md#teamwork "Teamwork")
 
@@ -57,6 +56,9 @@ M.O.C.E. Laura Carolina Sánchez Leal Responsible for the Guidance and Education
 
 [Repository in Spanish](https://github.com/Ibis-C/Metodos-de-organizacion#métodos-de-organización-notebook "Repository in Spanish")
 
-[Sprint 1]( "Sprint1")
+[Sprint 1](https://github.com/DanielaLujanTrejo/Methods-of-organization-/blob/Final-delivery/Documentation/Sprint%201.md#increase-of-the-product "Sprint 1")
 
+[Sprint 2](https://github.com/DanielaLujanTrejo/Methods-of-organization-/blob/Final-delivery/Documentation/Sprint%202.md#increased-product "Sprint 2")
+
+[Sprint 3](https://github.com/DanielaLujanTrejo/Methods-of-organization-/blob/Final-delivery/Documentation/Sprint%203.md#increase-of-the-product "Sprint 3")
 
